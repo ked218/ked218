@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ked218&label=Profile%20views&color=0e75b6&style=flat" alt="ked218" /> </p>
 
-- 🔭 I’m currently working on **Unity**
-
 - 💬 Ask me about **Unity, C#**
 
 - 📫 How to reach me **trongkhang.nguyen2001@gmail.com**
